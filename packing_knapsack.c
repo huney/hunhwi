@@ -1,8 +1,8 @@
 /*
  * Packing knapsack question
- * abc
+ * abcdefg
  * Copyright (C) 2016, Taeung Song <treeze.taeung@gmail.com>
- *
+ *alskdjf;alskdjf;aslkdjf;aslkdjf;asldkjf;alskdfjlsdfaj;slkdfja;sldkfjas;dflk
  */
 #include <stdio.h>
 

@@ -21,6 +21,7 @@ void packing_knapsack(struct knapsack *knapsack_list,
 {
 	/* Case by case pack knapsack following maximum
 	 * price per limited weight.
+	 // 대박이야 차차라차차라
 	 */
 }
 
